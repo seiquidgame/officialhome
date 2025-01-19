@@ -273,7 +273,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  padding: 45px 0;
+  padding: 15px 0;
 }
 
 .slider_section .row {
