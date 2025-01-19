@@ -53,7 +53,7 @@ body {
 }
 
 .heading_container h2 span {
-  color: #543D49;
+  color: #b7353b;
 }
 
 .heading_container.heading_center {
@@ -92,7 +92,7 @@ a:focus {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background-color: #543D49;
+  background-color: #b7353b;
   border-radius: 0 0 350px 0;
 }
 
@@ -439,7 +439,7 @@ a:focus {
 .service_section .box:hover::before {
   -webkit-transform: scale(5);
           transform: scale(5);
-  background-color: #543D49;
+  background-color: #b7353b;
 }
 
 .service_section .box:hover img {
@@ -460,12 +460,12 @@ a:focus {
 .service_section .btn-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #543D49;
+  background-color: #b7353b;
   color: #ffffff;
   border-radius: 5px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  border: 1px solid #543D49;
+  border: 1px solid #b7353b;
 }
 
 .service_section .btn-box a:hover {
@@ -475,7 +475,7 @@ a:focus {
 }
 
 .about_section {
-  background-color: #543D49;
+  background-color: #b7353b;
   color: #ffffff;
   border-radius: 250px 0 250px 0;
 }
@@ -557,7 +557,7 @@ a:focus {
 }
 
 .case_section .box .detail-box a {
-  color: #543D49;
+  color: #b7353b;
 }
 
 .client_section .box {
@@ -612,7 +612,7 @@ a:focus {
 
 .client_section .box .detail-box {
   background-color: #ffffff;
-  background-color: #543D49;
+  background-color: #b7353b;
   color: #ffffff;
   border-radius: 15px;
   padding: 85px 45px 15px 45px;
@@ -630,7 +630,7 @@ a:focus {
 }
 
 .client_section .carousel-indicators li {
-  background-color: #543D49;
+  background-color: #b7353b;
   width: 10px;
   height: 10px;
   border-radius: 100%;
@@ -687,12 +687,12 @@ a:focus {
   font-family: "Poppins", sans-serif;
   display: inline-block;
   padding: 10px 65px;
-  background-color: #543D49;
+  background-color: #b7353b;
   color: #ffffff;
   border-radius: 3px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  border: 1px solid #543D49;
+  border: 1px solid #b7353b;
   color: #fff;
   margin-top: 10px;
 }
@@ -719,7 +719,7 @@ a:focus {
 }
 
 .footer_container {
-  background-color: #543D49;
+  background-color: #b7353b;
   color: #ffffff;
   border-radius: 350px 0 0 0;
   padding-top: 145px;
